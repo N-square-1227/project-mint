@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "project-mint",
+    "name": "薄荷打卡",
     "slug": "project-mint",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +13,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.nxn.projectmint" 
+      "bundleIdentifier": "com.nxn.projectmint",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -25,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac850a5e-5fa8-46ea-9dd7-005fbdb354a4"
+      }
     }
   }
 }

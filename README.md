@@ -1,6 +1,7 @@
 ## 🚫 **Project Mint - 反向 README**
 
 安卓手机/鸿蒙4.2可用的打卡记录器。
+下载：[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/N-square-1227/project-mint/releases/download/v0.1/project-mint-v0.6.0.apk)
 
 ### ❌ **不能干什么**
 
